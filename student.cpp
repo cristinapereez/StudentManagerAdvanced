@@ -32,7 +32,7 @@ student::student()
         list.pop_back();
 
         //  double average = 0;
-          double studentGrade = 0;
+//          double studentGrade = 0;
             double sum = 0;
               for(int i =0; i < list.size(); i++)
                 {
