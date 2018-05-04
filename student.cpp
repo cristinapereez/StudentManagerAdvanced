@@ -36,7 +36,7 @@ student::student()
             double sum = 0;
               for(int i =0; i < list.size(); i++)
                 {
-                    sum+=list[i];
+                    sum = sum+=list[i];
                       }
                         studentGrade = sum/list.size();
                           return studentGrade;
