@@ -1,4 +1,4 @@
-fndef _STUDENT_H_
+#ifndef _STUDENT_H_
 #define _STUDENT_H_
 #include <vector>
 #include <string>

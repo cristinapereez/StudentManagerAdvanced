@@ -1,4 +1,4 @@
-nclude "student.h"
+#include "student.h"
 
 student::student()
 {
